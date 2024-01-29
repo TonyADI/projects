@@ -1,2 +1,2 @@
 # projects
-Description of various professional applications I have worked on
+Description of various applications I have worked on
