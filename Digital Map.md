@@ -1,0 +1,1 @@
+A digital map made with React that allows the user to pinpoint any spot on the map and search by coordinate, employee, or device name. Utilized virtualization to improve performance and reduce number of components rendered. 
